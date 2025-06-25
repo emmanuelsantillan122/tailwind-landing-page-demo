@@ -15,9 +15,10 @@ function App() {
             <div className="w-12">
               <ReactLogo className="fill-white" />
             </div>
-            <h2 className="text-xl uppercase font-bold">Become a host</h2>
+            <h2 className="text-xl uppercase font-bold">Emmanuel Graciano Santillan
+            </h2>
             <h1 className="text-6xl font-bold">
-              Host your space, share your world
+              Universidad Tecnologica de Durango
             </h1>
             <p className="text-lg">
               The art of hosting is rooted in thoughtful design. Share your
